@@ -1,0 +1,7 @@
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\bin\Debug\GpsParser.exe.config
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\bin\Debug\GpsParser.exe
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\bin\Debug\GpsParser.pdb
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\obj\Debug\GpsParser.csprojAssemblyReference.cache
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\obj\Debug\GpsParser.csproj.CoreCompileInputs.cache
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\obj\Debug\GpsParser.exe
+C:\Users\senih.cerit\Documents\Visual Studio 2017\Projects\GpsParser\GpsParser\obj\Debug\GpsParser.pdb
